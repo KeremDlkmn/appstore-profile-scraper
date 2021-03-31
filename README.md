@@ -6,7 +6,7 @@
 With the Apple App Store Profile Scrapper, you can access the profile information of the applications published in the app store.
 
 # Installation
-The easiest way to install deepface is to download it from [PyPI](https://pypi.org/project/appstore-profile-scraper/)
+The easiest way to install *appstore-profile-scraper* is to download it from [PyPI](https://pypi.org/project/appstore-profile-scraper/)
 ```python
 pip install appstore-profile-scraper
 ```
