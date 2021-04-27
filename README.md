@@ -1,6 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 [![pypi: v0.0.10](https://img.shields.io/badge/pypi-v0.0.10-yellow.svg)](https://pypi.org/project/appstore-profile-scraper/)
 [![Build: Passing](https://img.shields.io/badge/Build-Passing-green.svg)](https://github.com/KeremDlkmn/appstore-profile-scraper)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/appstore-profile-scraper)
 
 # Apple App Store Profile Scrapper
 With the Apple App Store Profile Scrapper, you can access the profile information of the applications published in the app store.
