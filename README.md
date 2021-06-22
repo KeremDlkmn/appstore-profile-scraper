@@ -44,4 +44,4 @@ if __name__ == '__main__':
 
 # Details
 * country(required): two-letter country code of [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) standard
-* app_name(required): name of an iOS application to fetch profile information for
+* app_name(required): name of an iOS application to fetch profile information for.
