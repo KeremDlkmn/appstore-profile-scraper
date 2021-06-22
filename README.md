@@ -2,7 +2,6 @@
 [![pypi: v0.0.10](https://img.shields.io/badge/pypi-v0.0.10-yellow.svg)](https://pypi.org/project/appstore-profile-scraper/)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/KeremDlkmn/appstore-profile-scraper)
 [![Build: Passing](https://img.shields.io/badge/Build-Passing-green.svg)](https://github.com/KeremDlkmn/appstore-profile-scraper)
-[![GitHub stars](https://img.shields.io/github/stars/KeremDlkmn/data-science-kit)](https://github.com/KeremDlkmn/appstore-profile-scraper/stargazers)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/appstore-profile-scraper)
 
 ![appstore-profile-scrapper](https://user-images.githubusercontent.com/25768758/122870011-cb272600-d335-11eb-8bd6-ddd40bdedd5d.png)
