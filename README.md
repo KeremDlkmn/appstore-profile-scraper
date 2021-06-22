@@ -4,7 +4,7 @@
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/appstore-profile-scraper)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/KeremDlkmn/appstore-profile-scraper)
 
-![appstore-profile-scraper](https://socialify.git.ci/KeremDlkmn/appstore-profile-scraper/image?description=1&descriptionEditable=With%20Apple%20App%20Store%20Profile%20Scraper%2C%20it%20allows%20you%20to%20access%20profile%20information%20of%20applications%20published%20in%20the%20app%20store.&font=Raleway&pattern=Brick%20Wall&theme=Light)
+![appstore-profile-scrapper](https://user-images.githubusercontent.com/25768758/122870011-cb272600-d335-11eb-8bd6-ddd40bdedd5d.png)
 
 # Apple App Store Profile Scrapper
 With the Apple App Store Profile Scrapper, you can access the profile information of the applications published in the app store.
